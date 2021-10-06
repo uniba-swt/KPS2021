@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+    code:
+        build: .
+        volumes: 
+            - ./:/data
+        ports:
+            - "3333:3333"

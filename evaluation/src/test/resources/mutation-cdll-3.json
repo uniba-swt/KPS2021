@@ -1,0 +1,382 @@
+[
+    {
+        "entries": [
+            "null"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "null",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n1",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n2",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "null"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n1"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n3"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "null",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n2",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n3",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "null"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n1"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n2"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "null",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n1",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n3",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "null"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n2"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n3"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n3",
+                "previous": "n2"
+            },
+            "n2": {
+                "next": "n1",
+                "previous": "n3"
+            },
+            "n3": {
+                "next": "n2",
+                "previous": "n3"
+            }
+        }
+    }
+]

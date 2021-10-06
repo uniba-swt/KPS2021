@@ -1,0 +1,79 @@
+[
+    {
+        "entries": [
+            "null"
+        ],
+        "matrix": {
+            "n1": {
+                "right": "null",
+                "left": "null"
+            }
+        }
+    },
+    {
+        "entries": [
+            "null"
+        ],
+        "matrix": {
+            "n1": {
+                "right": "n1",
+                "left": "null"
+            }
+        }
+    },
+    {
+        "entries": [
+            "null"
+        ],
+        "matrix": {
+            "n1": {
+                "right": "null",
+                "left": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "null"
+        ],
+        "matrix": {
+            "n1": {
+                "right": "n1",
+                "left": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n1"
+        ],
+        "matrix": {
+            "n1": {
+                "right": "n1",
+                "left": "null"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n1"
+        ],
+        "matrix": {
+            "n1": {
+                "right": "null",
+                "left": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n1"
+        ],
+        "matrix": {
+            "n1": {
+                "right": "n1",
+                "left": "n1"
+            }
+        }
+    }
+]

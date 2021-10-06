@@ -1,0 +1,38 @@
+[
+    {
+        "entries": [
+            "null"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n1",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n1"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "null",
+                "previous": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n1"
+        ],
+        "consumed": [],
+        "matrix": {
+            "n1": {
+                "next": "n1",
+                "previous": "null"
+            }
+        }
+    }
+]

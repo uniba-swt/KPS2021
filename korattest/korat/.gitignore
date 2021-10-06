@@ -1,0 +1,6 @@
+/apache-ant-1.9.16/
+/jdk1.5.0_22/
+src/**/*.class
+build/**/*.class
+/test-reports/*
+/dist/*

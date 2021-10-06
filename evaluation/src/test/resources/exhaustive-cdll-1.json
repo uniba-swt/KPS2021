@@ -1,0 +1,79 @@
+[
+    {
+        "entries": [
+            "null"
+        ],
+        "matrix": {
+            "n1": {
+                "previous": "null",
+                "next": "null"
+            }
+        }
+    },
+    {
+        "entries": [
+            "null"
+        ],
+        "matrix": {
+            "n1": {
+                "previous": "n1",
+                "next": "null"
+            }
+        }
+    },
+    {
+        "entries": [
+            "null"
+        ],
+        "matrix": {
+            "n1": {
+                "previous": "null",
+                "next": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "null"
+        ],
+        "matrix": {
+            "n1": {
+                "previous": "n1",
+                "next": "n1"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n1"
+        ],
+        "matrix": {
+            "n1": {
+                "previous": "null",
+                "next": "null"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n1"
+        ],
+        "matrix": {
+            "n1": {
+                "previous": "n1",
+                "next": "null"
+            }
+        }
+    },
+    {
+        "entries": [
+            "n1"
+        ],
+        "matrix": {
+            "n1": {
+                "previous": "null",
+                "next": "n1"
+            }
+        }
+    }
+]
