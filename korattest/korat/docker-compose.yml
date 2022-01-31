@@ -1,8 +1,0 @@
-version: '3.7'
-
-services:
-  korat:
-    build: .
-    volumes:
-      - ./:/data
-    working_dir: /data
